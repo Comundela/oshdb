@@ -1,0 +1,6 @@
+Integer number Of Users Editing Highways = OSMContributionView.on(oshdb) 
+areaOfInterest (34.6975909615009783,-19.8527970006488275 : 35.1514997726185427,-19.6175858908755281)
+timestamps("2015-01-01", "2019-07-14").
+osmTag("highway")
+map(getContributorUserId)
+countUniq();
